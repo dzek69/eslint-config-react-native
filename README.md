@@ -67,8 +67,8 @@ This is full config that I am using in one of my projects, feel free to take ins
     "react": {
       "createClass": "createReactClass",
       "pragma": "React",
-      "version": "15.0",
-      "flowVersion": "0.53"
+      "version": "detect",
+      "flowVersion": "detect"
     },
     "propWrapperFunctions": []
   }

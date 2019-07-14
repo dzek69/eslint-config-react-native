@@ -8,6 +8,7 @@ const OFF = "off";
 module.exports = {
     rules: {
         "react-native/no-unused-styles": ERROR,
+        "react-native/sort-styles": OFF,
         "react-native/split-platform-components": ERROR,
         "react-native/no-inline-styles": ERROR,
         "react-native/no-color-literals": ERROR,
